@@ -1,0 +1,1 @@
+s:277:"<strong>Stack trace: </strong> <ul style="text-align:left;"><li>line 870 of /lib/accesslib.php: required_capability_exception thrown</li><li>line 3076 of /lib/moodlelib.php: call to require_capability()</li><li>line 6 of /local/aot/manage.php: call to require_admin()</li></ul>";
